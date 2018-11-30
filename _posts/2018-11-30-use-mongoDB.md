@@ -21,7 +21,7 @@ First POST build by Jekyll.
 
 [诸葛亮](#)
 
-
+```
 Successfully added user: {
 "user" : "siteUserAdmin",
 "roles" : [
@@ -30,7 +30,7 @@ Successfully added user: {
           "db" : "admin"
      }
   ]
-
+```
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
